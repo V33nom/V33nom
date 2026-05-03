@@ -1,10 +1,10 @@
 # Hi there! 👋
 
-I'm V33nom, a passionate **Web Developer** and **Game Tester**.
+I'm V33nom, a passionate **Web Developer** and **Game Tester/ Game Developer**.
 
 ## 💻 Skills & Technologies
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** PHP, Java
+- **Backend:** PHP, Java,c#,unity , game developement, test cases,
 - **Database:** MySQL
 
 ## 🎮 What I do
